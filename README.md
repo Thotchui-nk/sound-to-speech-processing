@@ -49,6 +49,12 @@ It includes:
 
 ---
 
+## Full Segmented Dataset
+Due to size limits, only a small sample is included in this repo.  
+The complete set of 400+ segmented audio files can be downloaded here: [Google Drive Link](https://drive.google.com/drive/folders/12xNCeD4Zg2MswckdqcGUespvGHLQ_Cxg?usp=sharing)
+
+---
+
 ## Requirements
 - [Praat](https://www.fon.hum.uva.nl/praat/)  
 
