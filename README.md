@@ -10,7 +10,7 @@ It includes:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - `audio/` → raw speech audio files  
   - `lei0M0rin0Tang1.wav`  
 - `output/` → segmentation results  
@@ -24,7 +24,7 @@ It includes:
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 1. Generate TextGrid
 - Open **Praat**
@@ -41,7 +41,7 @@ It includes:
 
 ---
 
-## 📊 Example
+## Example
 - **Input Audio**: `audio/lei0M0rin0Tang1.wav`  
 - **Generated TextGrid**: `output/lei0M0rin0Tang1.TextGrid`  
 - **Segmented Output Files**: `output/lei0M0rin0Tang1_SegmentData/`  
@@ -49,7 +49,7 @@ It includes:
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 - [Praat](https://www.fon.hum.uva.nl/praat/)  
 
 (Optional Python tools for future work:)  
@@ -59,5 +59,5 @@ It includes:
 
 ---
 
-## 📜 License
+## License
 MIT License
